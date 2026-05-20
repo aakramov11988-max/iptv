@@ -831,7 +831,7 @@ https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Rossiya kanallari",TV1000 Русское Кино
 #EXTVLCOPT:http-user-agent=TiviMate
-http://cdn.kubteltv.workers.dev/?ID=193
+https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Rossiya kanallari",TV1000 ACTION HD
 #EXTVLCOPT:http-user-agent=TiviMate
