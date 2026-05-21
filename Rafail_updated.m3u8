@@ -419,7 +419,7 @@ https://iptv.itv.uz/hls/live/t/hQUARAt882L7AhyUBawzzw/e/1779260920/1465/index.m3
 
 #EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//05d8f97e2f2b552b2fea0b05a78c42b9-q-500x500.jpeg",Namangan
 #EXTVLCOPT:http-user-agent=TiviMate
-https://iptv.itv.uz/hls/live/t/J2FPDShGOMqVMPhC8NPO4A/e/1779260921/1466/index.m3u8?ip=45.95.203.252
+https://stream8.cinerama.uz/1461/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/26//b8ae4fe9e3795f28cdebd4b6e1993e2c-q-500x500.jpeg",Buxoro
 #EXTVLCOPT:http-user-agent=TiviMate
