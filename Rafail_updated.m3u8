@@ -1,0 +1,1107 @@
+#EXTM3U url-tvg="http://epg.one/epg.xml; http://uztv.su/uploads/channelsarch/channels.xml; https://epg.iptvx.one/epg_noarch.xml.gz; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml.gz; http://iptv-content.rv77.pw/guide-lite.xml"
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/NEXO.png" group-title="NEXO",NEXO
+#EXTVLCOPT:http-user-agent=TiviMate
+http://rafail1982.uz/nexo2.mp4
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/IPTV.png" group-title="O'zbekiston kanallari",IPTV
+#EXTVLCOPT:http-user-agent=TiviMate
+http://rafail1982.uz/IPTV.mp4
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/NexoIPTV.png" group-title="NEXO",NexoIPTV
+#EXTVLCOPT:http-user-agent=TiviMate
+http://rafail1982.uz/NexoIPTV.mp4
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/ES/Candy (Jazz-Funk Cover)_v2.png" group-title="O'zbekiston kanallari",Candy (Jazz-Funk Cover)_v2
+#EXTVLCOPT:http-user-agent=TiviMate
+http://rafail1982.uz/ES/Candy%20(Jazz-Funk%20Cover)_v2.mp4
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/ES/Never Leav (Country Cover)_v2.png" group-title="O'zbekiston kanallari",Never Leav (Country Cover)_v2
+#EXTVLCOPT:http-user-agent=TiviMate
+http://rafail1982.uz/ES/Never%20Leav%20(Country%20Cover)_v2.mp4
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/ES/I swear (Country Cover)_v2.png" group-title="O'zbekiston kanallari",I swear (Country Cover)_v2
+#EXTVLCOPT:http-user-agent=TiviMate
+http://rafail1982.uz/ES/I%20swear%20(Country%20Cover)_v2.mp4
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/ES/Пастух (Pan Flute Cover)_v2.png" group-title="O'zbekiston kanallari",Пастух (Pan Flute Cover)_v2
+#EXTVLCOPT:http-user-agent=TiviMate
+http://rafail1982.uz/ES/Пастух%20(Pan%20Flute%20Cover)_v2.mp4
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/ES/Candy (Jazz-Funk Cover)_v1.png" group-title="O'zbekiston kanallari",Candy (Jazz-Funk Cover)_v1
+#EXTVLCOPT:http-user-agent=TiviMate
+http://rafail1982.uz/ES/Candy%20(Jazz-Funk%20Cover)_v1.mp4
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/ES/Candy (Smooth Jazz Cover)_v1.png" group-title="O'zbekiston kanallari",Candy (Smooth Jazz Cover)_v1
+#EXTVLCOPT:http-user-agent=TiviMate
+http://rafail1982.uz/ES/Candy%20(Smooth%20Jazz%20Cover)_v1.mp4
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/ES/Candy (Smooth Jazz Cover)_v2.png" group-title="O'zbekiston kanallari",Candy (Smooth Jazz Cover)_v2
+#EXTVLCOPT:http-user-agent=TiviMate
+http://rafail1982.uz/ES/Candy%20(Smooth%20Jazz%20Cover)_v2.mp4
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/uztv.webp",O'zbekiston
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/yosh.webp",Yoshlar
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/tosh.webp",Toshkent
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/my5.webp",My5
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/my5i.png",My5 International
+#EXTVLCOPT:http-user-agent=TiviMate
+https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/milliy.webp",Milliy TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/zur.webp",Zo'r-TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/sev.webp",Sevimli
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/lux.webp",LuxTV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1210/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/iqbol.webp",I-kbol
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1282/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/istiq.webp",Istiqlol TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1223/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari"  tvg-logo="https://m3u.usite.pro/tv/ntv.webp",Ntv (O'zbekiston)
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1284/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//d1498a17fd6850c0e7404e9487353cfc-q-500x500.jpeg", Gold Television
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/4007/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/farg.jpeg",Farg'ona
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/xor.jpeg",Xorazm
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1464/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/qaraqal.webp",Qaraqalpaqstan
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/zfbwClyNqwiLgD0S6bbp1Q/e/1779260922/1467/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/nuraf.webp",Nurafshon
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1462/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/taraqq.webp",Taraqqiyot tv
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/15//75b4b090cb1f5663d7eb0373c1fb1a80-q-500x500.jpeg",Jizzax TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/metCmG3ryPuFCkNYPzryxQ/e/1779260948/1488/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg", Makon TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream2.cinerama.uz/1497/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/10//36d91922645f095fde22cb2b836715be-q-500x500.jpeg", Vodiy TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/sxfu3eP1mstp4MoFlZKfUA/e/1779260925/4012/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/15//e4a7c541ecae647033f9a2248b87fb6b-q-500x500.jpeg", Ishonch TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/vwQ1ECS7AagrzBL5L4am7g/e/1779260949/1489/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//5e1500c4d1b9595a50ad350cee8cd647-q-500x500.jpeg", Ellikqala TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/LgDRLojmjMI8eDqJfjQ8Lg/e/1779260955/1495/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/30//4a675cfc1ca9fc523519e8154c67f3a4-q-500x500.jpeg", Nasaf TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/d9oExiin_C0cEq_LDc7_Qg/e/1779260957/1492/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//bffc77f6b96e90ba72634340afe2d28f-q-500x500.jpeg", Amudaryo TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/zgZnPNDVxCH-N3OiWhFVfQ/e/1779260956/1491/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/17//c32cb89a20def5498dac66a7a6923399-q-500x500.jpeg", Muloqot TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/0ZpeUQGJ6qzoSTQ2VOGqEQ/e/1779260959/1285/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="Rossiya kanallari" tvg-logo="https://m3u.usite.pro/tv/stv.webp", Солнечный тв
+#EXTVLCOPT:http-user-agent=TiviMate
+https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/sevimlijon.webp",Sevimlijon
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream1.cinerama.uz/1477/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/mimi.jpeg",MiMi
+#EXTVLCOPT:http-user-agent=TiviMate
+https://fl.biztv.media/MiMiTV_1080/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/bola.webp",Bolajon
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/YmQIT3kQ6uQFLT6Fz6iEWg/e/1779260894/1007/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/aql.webp",Aqlvoy
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/ttv1.webp",TTV Telekanali
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream2.cinerama.uz/1494/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/ttv2.webp",TTV Kino
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/muKIpqdgYxAU_lb41IBY8g/e/1779260929/1486/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/cinema.webp",Cinema (uzb)
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/biz1.webp",BIZ TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/biz2.webp",BIZ Cinema
+#EXTVLCOPT:http-user-agent=TiviMate
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/05/01//ac76145a39e0a0e5086a5fc7d1651999-q-500x500.jpeg",ITV Music
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/8SqJHfw3JdZTgx19oVjjxw/e/1779260878/4001/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg",ITV Cinema
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/rpJI9wbkjJoPBpEVU0YGUg/e/1779260878/4000/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/kinot.webp",Kinoteatr
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/travel.webp",Travel-tv (O'zbekiston)
+#EXTVLCOPT:http-user-agent=TiviMate
+https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/smusic.webp",Globus Music
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream2.cinerama.uz/1476/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/biz3.webp",BIZ Music
+#EXTVLCOPT:http-user-agent=TiviMate
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/muz.png", Муз-тв (O'zbekiston)
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/navo.webp",Navo
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/DzdHxqlfNgztt0UXdMrEXg/e/1779260896/1008/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/ftv.webp",FTV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1018/playlist.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/myd.webp",MYDAYTV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1265/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/biznes.png",Biznes TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://fl.biztv.media/BiznesTV_1080/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/madan.webp",Madaniyat va ma'rifat
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/dtv.webp",Dasturxon
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/dunyo.webp",Dunyo Bo'ylab
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/renessans.webp",Renessans TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/uz24.webp",O'zbekiston-24
+#EXTVLCOPT:http-user-agent=TiviMate
+https://st1.uzdigital.tv/Uzb24/tracks-v2a1a2/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/tarix.webp",O'zbekiston tarixi
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/mahalla.webp",Mahalla
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/e_C5uZktEHNR9N19Ecsv6g/e/1779260900/1013/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/report.webp",Uzreport
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/sport.webp",Sport uz
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/01/07//20d9335019d646e341e84482f3b5679b-q-500x500.jpeg", Futbol TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1010/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//d1498a17fd6850c0e7404e9487353cfc-q-500x500.jpeg", Gold TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/4007/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg",Ruxsor TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/OEnV4J6WAVi4GnQKYb9hUQ/e/1779260909/4008/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/18//4d3cca95cc849ef5cb15e9a397316622-q-500x500.jpeg", TTV Musiqa
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/XLLBSSg5LcrK-neLqCn4_Q/e/1779260947/1485/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/uz24.webp",O'zbekiston 24
+#EXTVLCOPT:http-user-agent=TiviMate
+https://st1.uzdigital.tv/Uzb24/tracks-v2a1a2/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="http://img.vintera.tv/img/ico/silkway.png",Silk Way TV (UZB)
+#EXTVLCOPT:http-user-agent=TiviMate
+https://pop3.akamaized.net/SilkwayUzbek.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://iptvx.one/picons/silkway.png" tvg-id="simpleTVFakeEpgId",Silk WAY  TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-id="712" tvg-name="RETROTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2025/8855.jpg",RETROTV
+https://stream8.cinerama.uz/1290/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-id="713" tvg-name="QIZIQTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2025/880.jpg",QIZIQTV
+https://stream8.cinerama.uz/1291/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//f79dce2ae2bd9ef84b6888f226fbb293-q-500x500.jpeg", Sport UZ HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//4091c27ad1899f00d8f900e4a1243611-q-500x500.jpeg", O'zbekiston 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1011/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg" group-title="O'zbekiston kanallari",ZO'R TV FHD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/JI6EYoUcA_QLp16n5d2m3w/e/1779260887/1286/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/sev.webp", Sevimli TV HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1017/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//fa77872772e7f7406369bd0fe4e48e47-q-500x500.jpeg", Milliy TV HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1014/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//15db9906a0f50fb5ccadc0c30f1e532d-q-500x500.jpeg", Milliy TV SD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1014/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/cinema.webp",S-Cinema (UZB)
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/11/03//5a52a0580d30e504a5dbf424962bed82-q-500x500.jpeg", MY5 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1012/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/11/03//2675cdc82b452ba3267237a976d173fc-q-500x500.jpeg", MY5 SD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1217/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/04/26//d130432ae16fe60b68f22d3874a4493d-q-500x500.jpeg", DasturxonTV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1206/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/biz1.webp",BIZ TV HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/muz.png", MuzTV UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/smusic.webp",SMusic
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1245/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Madaniyat va marifat
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1005/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg", Kinoteatr HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1009/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//58b2e970ecde5f03f461b8fe59550fac-q-500x500.jpeg", O'zbekiston tarixi FHD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1209/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//622d1ccb45505a6a0c4a5b231a1664eb-q-500x500.jpeg", Dunyo bo`ylab
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1006/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Uzreport HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/iqbol.webp",S-ikbol TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1282/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Lux TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1210/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/biz2.webp",BIZ Cinema FHD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://m3u.usite.pro/tv/biz3.webp",BIZ Music FHD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/01/22//4a58120210414aef66c88ca130dd3650-q-500x500.jpeg", Nurafshon TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg", Farg'ana
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a0534f66a3cce9a795ff7027b1a23c94-q-500x500.jpeg",Surxondaryo
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1463/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//595b563167b272fbeb4caff0c27a1581-q-500x500.jpeg",Andijon
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/9079DpVdSiMugHc2hsp_NQ/e/1779260912/1457/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//95e6300e134acd2a9f037ce3c3887158-q-500x500.jpeg",Navoiy
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1460/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//52d247a1c7a06b96f9092d614b939f7c-q-500x500.jpeg",Qashqadaryo
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1461/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//793ae8aa37f748e74ddec8761fccd026-q-500x500.jpeg",Sirdaryo
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1462/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//e1c2b2bcecf5ff7855dbb0b90308776b-q-500x500.jpeg",Jizzax
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1465/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//05d8f97e2f2b552b2fea0b05a78c42b9-q-500x500.jpeg",Namangan
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/J2FPDShGOMqVMPhC8NPO4A/e/1779260921/1466/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/26//b8ae4fe9e3795f28cdebd4b6e1993e2c-q-500x500.jpeg",Buxoro
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1459/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//db56b3e322425b29a81ded37a774f83c-q-500x500.jpeg",Samarqand
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1465/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg", Mimi TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/9aWo1kZDzspiaXMSkvxTJQ/e/1779260928/1470/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//17af904b28e714551e8396fcc077e11a-q-500x500.jpeg", TTV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1494/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg", 8TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/6Ca9Bd4swMTjd-UhE-IDiw/e/1779260956/1496/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/17//1f68774291aa8afc63a9696929ffbbee-q-500x500.jpeg", Jaslar TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/d7-lJt1o7oIxfNSpRfK8jA/e/1779260958/1490/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/08/22//42581c5407b1ecfcc533a153c0d3dc19-q-500x500.jpeg", LiveTV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg", MakonTV HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500.jpeg", Denov TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/-IhA7YJY46_pKKHSqy9qkg/e/1779260960/1499/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/ntv.png" group-title="O'zbekiston kanallari",ntv
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1284/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="O'zbekiston kanallari",Nurafshon UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1220/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="O'zbekiston kanallari",JTV UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1488/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="O'zbekiston kanallari",Ishonch TV UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1489/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="O'zbekiston kanallari",Eliqqala TV UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1495/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="O'zbekiston kanallari",Nasaf TV UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/2025/tracks-a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="O'zbekiston kanallari",Amudaryo TV UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1491/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="O'zbekiston kanallari",TTV Telekanal UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1494/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="O'zbekiston kanallari",TTV Kino UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1486/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/Cinema.png" group-title="O'zbekiston kanallari",Cinema UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1498/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/Toshkent UZ.png" group-title="O'zbekiston kanallari",Toshkent UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1003/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Milliy TV UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1014/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="O'zbekiston kanallari",Sevimli UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1017/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="O'zbekiston kanallari",LuxTV UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1210/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="O'zbekiston kanallari",Makon TV UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1497/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="O'zbekiston kanallari",Travel-tv
+#EXTVLCOPT:http-user-agent=TiviMate
+http://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/Navo UZ.png" group-title="O'zbekiston kanallari",Navo UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1008/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/Dunyo Bo'ylab UZ.png" group-title="O'zbekiston kanallari",Dunyo Bo'ylab UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1006/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="O'zbekiston kanallari",RTV UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1221/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="O'zbekiston kanallari",O'zbekiston4 UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1011/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="O'zbekiston kanallari",O'zbekiston tarixi UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1209/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/Mahalla UZ.png" group-title="O'zbekiston kanallari",Mahalla UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1013/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="O'zbekiston kanallari",Uzreport UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1015/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1.png" group-title="O'zbekiston kanallari",Setanta Sports 1
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1263/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2.png" group-title="O'zbekiston kanallari",Setanta Sports 2
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1264/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" group-title="O'zbekiston kanallari",O'zbekiston 1 UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1001/tracks-v1a1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Uzbekistan 24
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1011/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Dunyo bo`ylab UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1006/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" group-title="O'zbekiston kanallari",Kinoteatr HD UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1009/tracks-v1a1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" group-title="O'zbekiston kanallari",Oilaviy
+#EXTVLCOPT:http-user-agent=TiviMate
+https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" group-title="O'zbekiston kanallari",Ozbekiston 24 HD UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1011/tracks-v1a1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" group-title="O'zbekiston kanallari",UzReport TV HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1015/tracks-v1a1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",My5 UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1217/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" group-title="O'zbekiston kanallari",Milliy TV HD UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1014/tracks-v1a1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" group-title="O'zbekiston kanallari",Zo'r TV HD UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1016/tracks-v1a1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" group-title="O'zbekiston kanallari",Futbol
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1010/tracks-v1a1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" group-title="O'zbekiston kanallari",IKBOL
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1282/tracks-v1a1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" group-title="O'zbekiston kanallari",Isteklol TV
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1283/tracks-v1a1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Aqlvoy TV UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Ozbekiston Tarixi HD UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1209/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" group-title="O'zbekiston kanallari",Biz TV UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1211/tracks-v1a1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Biz Music HD UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Biz Cinema UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Nurafshon TV UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Renessans TV UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" group-title="O'zbekiston kanallari",S Music
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1245/tracks-v1a1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/Yoshlar UZ.png" group-title="O'zbekiston kanallari",Yoshlar UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1002/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="O'zbekiston kanallari",Zo'r-TV UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://s8.rafail1982.uz/1016/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Zor TV HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Uzbekiston
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",UzSport
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Turan TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1261/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",TRT Muzik
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",TRT Haber
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1257/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",TRT Avaz
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1258/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Taraqqiyot TV UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Sevimili UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1017/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Qozog'iston kanallari",Qasaqstan
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Ntv UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1284/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",NHK World Japan
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1449/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Myday TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1265/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Mening Yurtim FHD UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1012/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Первый канал
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1019/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",НТВ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Россия К
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Россия 1
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Техно 24
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Приключения
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Первый Космический
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Охотник и Рыболов HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Охота и Рыбалка
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Наша Сибирь
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Наука
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Моя Планета
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Живая Природа HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Глазами Туриста
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Вопросы и Ответы
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",В Мире Животных
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",NAT GEO WILD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",National Geographic
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Insight TV HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Точка РФ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",История
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Живая Планета
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Усадьба
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Точка Отрыва
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",ТВЦ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Сарафан
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Ретро
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Мир 24
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Мир
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Кухня ТВ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",TV1000 Русское Кино
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",TV1000 ACTION HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Кинопоказ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Наше Новое Кино
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Родное Кино
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Кинохит
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Киносерия
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Киносемья
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Киносвидание
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Кинопремьера
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Киномикс
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Кинокомедия
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Индийское Кино
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Капитан Фантастика HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Qozog'iston kanallari",Казахстан 24
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1408/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Зоопарк
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Здоровое ТВ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Звезда
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Живи Активно HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Живи
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Драйв
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Дорама
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Домашние Животные
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Дом Кино
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Доктор
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Арсенал HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Авто Плюс
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Авто 24
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",KBS WORLD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1448/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Hollywood
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",France 24
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1241/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Foreign Languages UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1010/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Fashion TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Euronews
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",English Club
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",CNN
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1259/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Cinema
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",CGTN
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1253/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Bollywood
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1444/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Bloomberg
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1255/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",BizTV HD UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",BBC WORLD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",8 Канал
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1262/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",365 Дней HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Duck TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Рыжий
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Мама
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Уникум
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Карусель
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1034/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Da Vinci
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Мультиландия
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Мульт
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",В Гостях У Сказки
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Tiji
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Gulli Girl
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Музыка Первого
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Ля-Минор
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1238/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",СТВ  Музыка HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1018/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",МузТВ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari",Муз ТВ UZ
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",RU.TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Trace Sport Stars HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Setanta Sports 1 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Setanta Sports 2 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",KHL
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Матч! Планета
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya kanallari",Viasat Sport
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/23//8707395e931d3bb2ce18579a995d16a7-q-500x500.jpeg",Shifo TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/sm85TNfhfF0kAcFFPnI80A/e/1779260926/1469/index.m3u8?ip=45.95.203.252
+
+#EXTINF:-1 group-title="O'zbekiston kanallari" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/23//8707395e931d3bb2ce18579a995d16a7-q-500x500.jpeg",Shifo TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://iptv.itv.uz/hls/live/t/sm85TNfhfF0kAcFFPnI80A/e/1779260926/1469/index.m3u8?ip=45.95.203.252
+
